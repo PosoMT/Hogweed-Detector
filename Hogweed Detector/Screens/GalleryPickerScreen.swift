@@ -19,7 +19,7 @@ struct GalleryPickerScreen: View {
     
     func loadImage() {
         handler.clearResults()
-        handler.scan(selectedImage.cgImage)
+//        handler.scan(selectedImage.cgImage)
     }
     
     var body: some View {

@@ -18,15 +18,10 @@ struct ContentView: View {
                 .tabItem {
                     Label("Сканировать", systemImage: "eye")
                 }
-            ReportScreen()
+            DetailsScreen()
                 .tag(1)
                 .tabItem {
-                    Label("Report", systemImage: "fanblades.slash")
-                }
-            DetailsScreen()
-                .tag(2)
-                .tabItem {
-                    Label("Details", systemImage: "info.circle")
+                    Label("Описание", systemImage: "info.circle")
                 }
         }
     }
