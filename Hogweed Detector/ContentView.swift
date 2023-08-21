@@ -8,8 +8,27 @@
 import SwiftUI
 
 struct ContentView: View {
+    
+    @State var tabSelection: Int = 0
+    
     var body: some View {
-        GalleryPickerScreen()
+        TabView(selection: $tabSelection) {
+            GalleryPickerScreen()
+                .tag(0)
+                .tabItem {
+                    Label("Сканировать", systemImage: "eye")
+                }
+            ReportScreen()
+                .tag(1)
+                .tabItem {
+                    Label("Report", systemImage: "fanblades.slash")
+                }
+            DetailsScreen()
+                .tag(2)
+                .tabItem {
+                    Label("Details", systemImage: "info.circle")
+                }
+        }
     }
 }
 
