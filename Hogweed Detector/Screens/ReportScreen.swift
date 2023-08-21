@@ -8,6 +8,8 @@
 import SwiftUI
 
 struct ReportScreen: View {
+    @State var expanded1 = true
+    
     var body: some View {
         Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
     }
