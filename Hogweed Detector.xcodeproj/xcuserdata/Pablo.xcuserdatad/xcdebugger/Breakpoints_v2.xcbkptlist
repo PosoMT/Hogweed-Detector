@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "AD0B8855-E114-484B-BE9F-3DBAFB221B01"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D8D8E5E2-F148-4861-A03B-9ADCB330110F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Hogweed Detector/GalleryPickerScreen.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "171"
+            endingLineNumber = "171"
+            landmarkName = "setupVision()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "453CF3E0-06DA-4819-9971-0F4A6A2B1931"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Hogweed Detector/GalleryPickerScreen.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "205"
+            endingLineNumber = "205"
+            landmarkName = "setupVision()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "453CF3E0-06DA-4819-9971-0F4A6A2B1931 - 6b5d665fcf1a2553"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Hogweed_Detector.ExampleVisionHandler.__allocating_init() -&gt; Hogweed_Detector.ExampleVisionHandler"
+                  moduleName = "Hogweed Detector"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Pablo/Documents/XcodeProjects/Hogweed%20Detector/Hogweed%20Detector/GalleryPickerScreen.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "32">
+               </Location>
+               <Location
+                  uuid = "453CF3E0-06DA-4819-9971-0F4A6A2B1931 - dd2c73e0cab839e4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Hogweed_Detector.ExampleVisionHandler.init() -&gt; Hogweed_Detector.ExampleVisionHandler"
+                  moduleName = "Hogweed Detector"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Pablo/Documents/XcodeProjects/Hogweed%20Detector/Hogweed%20Detector/GalleryPickerScreen.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "68"
+                  endingLineNumber = "68"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "453CF3E0-06DA-4819-9971-0F4A6A2B1931 - f800693ce9f19a8e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Hogweed_Detector.ExampleVisionHandler.setupVision() -&gt; Swift.Optional&lt;__C.NSError&gt;"
+                  moduleName = "Hogweed Detector"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Pablo/Documents/XcodeProjects/Hogweed%20Detector/Hogweed%20Detector/GalleryPickerScreen.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "135"
+                  endingLineNumber = "135"
+                  offsetFromSymbolStart = "1184">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0D94ECC2-47B5-4A8B-8A1F-5729FA6E6759"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Hogweed Detector/GalleryPickerScreen.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "210"
+            endingLineNumber = "210"
+            landmarkName = "init()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4215726C-1D61-4E39-B294-3F2C5E45B783"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Hogweed Detector/GalleryPickerScreen.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "177"
+            endingLineNumber = "177"
+            landmarkName = "setupVision()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "ADFC3192-11A9-493B-965D-82F93F41C213"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Hogweed Detector/GalleryPickerScreen.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "174"
+            endingLineNumber = "174"
+            landmarkName = "setupVision()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "ADFC3192-11A9-493B-965D-82F93F41C213 - 6d7e5dedae31aa5c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.VNRequest, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Hogweed_Detector.ExampleVisionHandler.setupVision() -&gt; Swift.Optional&lt;__C.NSError&gt;"
+                  moduleName = "Hogweed Detector"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Pablo/Documents/XcodeProjects/Hogweed%20Detector/Hogweed%20Detector/GalleryPickerScreen.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "121"
+                  endingLineNumber = "121"
+                  offsetFromSymbolStart = "764">
+               </Location>
+               <Location
+                  uuid = "ADFC3192-11A9-493B-965D-82F93F41C213 - 6d7e5dedae31aa5c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.VNRequest, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Hogweed_Detector.ExampleVisionHandler.setupVision() -&gt; Swift.Optional&lt;__C.NSError&gt;"
+                  moduleName = "Hogweed Detector"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Pablo/Documents/XcodeProjects/Hogweed%20Detector/Hogweed%20Detector/GalleryPickerScreen.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "121"
+                  endingLineNumber = "121"
+                  offsetFromSymbolStart = "1936">
+               </Location>
+               <Location
+                  uuid = "ADFC3192-11A9-493B-965D-82F93F41C213 - f800693ce9f19601"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Hogweed_Detector.ExampleVisionHandler.setupVision() -&gt; Swift.Optional&lt;__C.NSError&gt;"
+                  moduleName = "Hogweed Detector"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Pablo/Documents/XcodeProjects/Hogweed%20Detector/Hogweed%20Detector/GalleryPickerScreen.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "108"
+                  endingLineNumber = "108"
+                  offsetFromSymbolStart = "1488">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "60956E00-0A07-495F-9B2F-C696C0C4CF8D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Hogweed Detector/SOImageDetector.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "75"
+            endingLineNumber = "75"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "60956E00-0A07-495F-9B2F-C696C0C4CF8D - 2eb06c1762914ef8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.VNRecognizedObjectObservation) -&gt; &lt;&lt;opaque return type of SwiftUI.View.position(x: CoreGraphics.CGFloat, y: CoreGraphics.CGFloat) -&gt; some&gt;&gt;.0 in closure #1 () -&gt; SwiftUI.ForEach&lt;Swift.Array&lt;__C.VNRecognizedObjectObservation&gt;, Foundation.UUID, &lt;&lt;opaque return type of SwiftUI.View.position(x: CoreGraphics.CGFloat, y: CoreGraphics.CGFloat) -&gt; some&gt;&gt;.0&gt; in closure #1 (SwiftUI.GeometryProxy) -&gt; &lt;&lt;opaque return type of SwiftUI.View.rotation3DEffect(_: SwiftUI.Angle, axis: (x: CoreGraphics.CGFloat, y: CoreGraphics.CGFloat, z: CoreGraphics.CGFloat), anchor: SwiftUI.UnitPoint, anchorZ: CoreGraphics.CGFloat, perspective: CoreGraphics.CGFloat) -&gt; some&gt;&gt;.0 in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.border&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.ShapeStyle&gt;(_: &#x3c4;_1_0, width: CoreGraphics.CGFloat) -&gt; some&gt;&gt;.0 in Hogweed_Detector.SOImageDetector.body.getter : some"
+                  moduleName = "Hogweed Detector"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Pablo/Documents/XcodeProjects/Hogweed%20Detector/Hogweed%20Detector/SOImageDetector.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "75"
+                  endingLineNumber = "75"
+                  offsetFromSymbolStart = "408">
+               </Location>
+               <Location
+                  uuid = "60956E00-0A07-495F-9B2F-C696C0C4CF8D - 2eb06c1762914ef8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.VNRecognizedObjectObservation) -&gt; &lt;&lt;opaque return type of SwiftUI.View.position(x: CoreGraphics.CGFloat, y: CoreGraphics.CGFloat) -&gt; some&gt;&gt;.0 in closure #1 () -&gt; SwiftUI.ForEach&lt;Swift.Array&lt;__C.VNRecognizedObjectObservation&gt;, Foundation.UUID, &lt;&lt;opaque return type of SwiftUI.View.position(x: CoreGraphics.CGFloat, y: CoreGraphics.CGFloat) -&gt; some&gt;&gt;.0&gt; in closure #1 (SwiftUI.GeometryProxy) -&gt; &lt;&lt;opaque return type of SwiftUI.View.rotation3DEffect(_: SwiftUI.Angle, axis: (x: CoreGraphics.CGFloat, y: CoreGraphics.CGFloat, z: CoreGraphics.CGFloat), anchor: SwiftUI.UnitPoint, anchorZ: CoreGraphics.CGFloat, perspective: CoreGraphics.CGFloat) -&gt; some&gt;&gt;.0 in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.border&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.ShapeStyle&gt;(_: &#x3c4;_1_0, width: CoreGraphics.CGFloat) -&gt; some&gt;&gt;.0 in Hogweed_Detector.SOImageDetector.body.getter : some"
+                  moduleName = "Hogweed Detector"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Pablo/Documents/XcodeProjects/Hogweed%20Detector/Hogweed%20Detector/SOImageDetector.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "75"
+                  endingLineNumber = "75"
+                  offsetFromSymbolStart = "216">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C6B75DC7-A81E-4B68-9B79-B483F6EC515F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Hogweed Detector/SOImageDetector.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "59"
+            endingLineNumber = "59"
+            landmarkName = "deNormalize(_:_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C6B75DC7-A81E-4B68-9B79-B483F6EC515F - b7caf837dc9c91e1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Hogweed_Detector.Detection.deNormalize(__C.CGRect, SwiftUI.GeometryProxy) -&gt; __C.CGRect"
+                  moduleName = "Hogweed Detector"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Pablo/Documents/XcodeProjects/Hogweed%20Detector/Hogweed%20Detector/SOImageDetector.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "59"
+                  endingLineNumber = "59"
+                  offsetFromSymbolStart = "1248">
+               </Location>
+               <Location
+                  uuid = "C6B75DC7-A81E-4B68-9B79-B483F6EC515F - b7caf837dc9c91e1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Hogweed_Detector.Detection.deNormalize(__C.CGRect, SwiftUI.GeometryProxy) -&gt; __C.CGRect"
+                  moduleName = "Hogweed Detector"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Pablo/Documents/XcodeProjects/Hogweed%20Detector/Hogweed%20Detector/SOImageDetector.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "59"
+                  endingLineNumber = "59"
+                  offsetFromSymbolStart = "188">
+               </Location>
+               <Location
+                  uuid = "C6B75DC7-A81E-4B68-9B79-B483F6EC515F - b7caf837dc9c91e1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Hogweed_Detector.Detection.deNormalize(__C.CGRect, SwiftUI.GeometryProxy) -&gt; __C.CGRect"
+                  moduleName = "Hogweed Detector"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Pablo/Documents/XcodeProjects/Hogweed%20Detector/Hogweed%20Detector/SOImageDetector.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "59"
+                  endingLineNumber = "59"
+                  offsetFromSymbolStart = "168">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "058ACD5B-AA43-45C9-A36B-AE354D26365B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Hogweed Detector/SOImageDetector.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "57"
+            endingLineNumber = "57"
+            landmarkName = "deNormalize(_:_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
