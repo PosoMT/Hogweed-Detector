@@ -19,6 +19,7 @@
 		6E0501842A93BF9000EBA5B9 /* ReportScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E0501832A93BF9000EBA5B9 /* ReportScreen.swift */; };
 		6E05018A2A93C5AB00EBA5B9 /* DetailsRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E0501892A93C5AB00EBA5B9 /* DetailsRow.swift */; };
 		6E05018C2A93C95E00EBA5B9 /* ExpandableText.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E05018B2A93C95E00EBA5B9 /* ExpandableText.swift */; };
+		6E05018F2A93D3E600EBA5B9 /* VisionHandlerVM.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E05018E2A93D3E600EBA5B9 /* VisionHandlerVM.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,6 +38,7 @@
 		6E0501832A93BF9000EBA5B9 /* ReportScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReportScreen.swift; sourceTree = "<group>"; };
 		6E0501892A93C5AB00EBA5B9 /* DetailsRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailsRow.swift; sourceTree = "<group>"; };
 		6E05018B2A93C95E00EBA5B9 /* ExpandableText.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExpandableText.swift; sourceTree = "<group>"; };
+		6E05018E2A93D3E600EBA5B9 /* VisionHandlerVM.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VisionHandlerVM.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -69,6 +71,7 @@
 		6E0501472A8A4FBC00EBA5B9 /* Hogweed Detector */ = {
 			isa = PBXGroup;
 			children = (
+				6E05018D2A93D3DA00EBA5B9 /* Model */,
 				6E0501882A93C02800EBA5B9 /* UIDesign */,
 				6E0501872A93C01B00EBA5B9 /* Helpers */,
 				6E0501862A93C00200EBA5B9 /* Screens */,
@@ -117,6 +120,14 @@
 				6E05017F2A93BF6F00EBA5B9 /* NeatButton.swift */,
 			);
 			path = UIDesign;
+			sourceTree = "<group>";
+		};
+		6E05018D2A93D3DA00EBA5B9 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				6E05018E2A93D3E600EBA5B9 /* VisionHandlerVM.swift */,
+			);
+			path = Model;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -191,6 +202,7 @@
 			files = (
 				6E0501582A8A531200EBA5B9 /* GalleryPickerScreen.swift in Sources */,
 				6E0501822A93BF8700EBA5B9 /* DetailsScreen.swift in Sources */,
+				6E05018F2A93D3E600EBA5B9 /* VisionHandlerVM.swift in Sources */,
 				6E0501722A938B9900EBA5B9 /* ImagePicker.swift in Sources */,
 				6E05014B2A8A4FBC00EBA5B9 /* ContentView.swift in Sources */,
 				6E05015E2A8A86A800EBA5B9 /* Hogweed3.mlmodel in Sources */,
